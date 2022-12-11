@@ -17,4 +17,14 @@ nav{
     background-color: hsla(303, 100%, 50%, 0.66);
     padding: 20px;
     font-size: 20px;
+    color: aliceblue;
+}
+nav a{
+color: aliceblue;
+}
+/* nav a:link{ */
+    color:brown;
+}
+/* nav a:visited{ */
+    color: yellow;
 }
