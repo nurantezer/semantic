@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header{
+    padding: 40px;
+    background-color: red;
+    color: white;
+    font-size: 30px;
+}
+nav{
+    background-color: hsla(303, 100%, 50%, 0.66);
+    padding: 20px;
+    font-size: 20px;
+}
